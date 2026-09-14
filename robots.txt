@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://rsgimenezit.github.io/sitemap.xml
