@@ -1,0 +1,17 @@
+RSGimenezIT — site atualizado
+
+Principais mudanças:
+- Foco principal em Soluções Digitais
+- Nova home com pacotes e preços de referência
+- Novas páginas: criação de sites, Google Perfil da Empresa, domínio/e-mail e manutenção
+- Suporte de TI preservado como linha complementar
+- SEO, sitemap e robots atualizados
+- WhatsApp, e-mail e redes sociais preservados
+
+PUBLICAÇÃO NO GITHUB PAGES:
+1. Faça backup do repositório atual.
+2. Envie TODOS os arquivos e a pasta imagens para a raiz do repositório rsgimenezit.github.io.
+3. Substitua os arquivos existentes quando solicitado.
+4. Aguarde alguns minutos e abra https://rsgimenezit.github.io/
+
+Observação: valores dos pacotes são referências e custos de terceiros ficam separados conforme texto do site.
