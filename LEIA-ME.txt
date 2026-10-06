@@ -1,17 +1,27 @@
-RSGimenezIT — site atualizado
+RSGimenezIT — site multipáginas (versão 2)
 
-Principais mudanças:
-- Foco principal em Soluções Digitais
-- Nova home com pacotes e preços de referência
-- Novas páginas: criação de sites, Google Perfil da Empresa, domínio/e-mail e manutenção
-- Suporte de TI preservado como linha complementar
-- SEO, sitemap e robots atualizados
-- WhatsApp, e-mail e redes sociais preservados
+ESTRUTURA
+- index.html ................ página inicial
+- solucoes-digitais.html .... lista das soluções digitais
+- suporte-de-ti.html ........ lista dos serviços de TI
+- planos.html ............... planos, comparativo e dúvidas
+- sobre.html ................ quem é a RSGimenezIT
+- contato.html .............. formulário que abre o WhatsApp com a mensagem pronta
+- 1 página por serviço (os endereços antigos foram mantidos, para não perder posição no Google)
+- 404.html .................. página de erro personalizada
+- assets/css/style.css ...... visual de todas as páginas (mude uma vez, muda o site todo)
+- assets/js/main.js ......... menu do celular, animações e formulário
+- imagens/ .................. logo, imagem principal e imagem de compartilhamento (og-image.jpg)
 
-PUBLICAÇÃO NO GITHUB PAGES:
+PUBLICAR NO GITHUB PAGES
 1. Faça backup do repositório atual.
-2. Envie TODOS os arquivos e a pasta imagens para a raiz do repositório rsgimenezit.github.io.
+2. Envie TODOS os arquivos e pastas (assets e imagens) para a raiz do repositório rsgimenezit.github.io.
 3. Substitua os arquivos existentes quando solicitado.
 4. Aguarde alguns minutos e abra https://rsgimenezit.github.io/
+5. No Google Search Console, envie novamente o sitemap.xml.
 
-Observação: valores dos pacotes são referências e custos de terceiros ficam separados conforme texto do site.
+PARA DEIXAR AINDA MELHOR (só você pode fornecer)
+- Sua foto: salve como imagens/rafael.jpg e, em sobre.html, troque src="imagens/logo.webp" por src="imagens/rafael.jpg".
+- Depoimentos reais de clientes e projetos entregues (prints e links) para uma seção de portfólio.
+- Domínio próprio (ex.: rsgimenezit.com.br) e e-mail profissional. Ao trocar, atualize o endereço base nas páginas, no sitemap.xml e no robots.txt.
+- Confira as respostas das perguntas frequentes de cada página.
